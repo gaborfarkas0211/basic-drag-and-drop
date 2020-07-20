@@ -5,7 +5,7 @@ This is a test task, PHP (using Yii2 framework) login, registration and drag and
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/gaborfarkas0211/basic-drag-and-drop.git`
 
 ### Setup
 - Install the project with ```shell $ composer install ``` command
