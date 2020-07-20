@@ -1,6 +1,5 @@
 # Drag and drop with php
 This is a test task, PHP (using Yii2 framework) login, registration and drag and drop.
-## Screenshots
 
 ## Installation
 
