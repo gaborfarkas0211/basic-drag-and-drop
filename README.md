@@ -8,9 +8,9 @@ This is a test task, PHP (using Yii2 framework) login, registration and drag and
 - Clone this repo to your local machine using `https://github.com/gaborfarkas0211/basic-drag-and-drop.git`
 
 ### Setup
-- Install the project with ```shell $ composer install ``` command
+- Install the project with ```$ composer install ``` command
 - Make a database called `jacsomedia`
-- Run command ```shell $ php yii migrate ```
+- Run command ```$ php yii migrate ```
 
 > Now you have items for drag and drop, and one user.
 > For this user the username is `admin` and the password is `admin123`
