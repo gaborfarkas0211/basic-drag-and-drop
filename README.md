@@ -8,7 +8,7 @@ This is a PHP test task using Yii2 framework for a login, registration and 'drag
 - Clone this repo to your local machine using `https://github.com/gaborfarkas0211/basic-drag-and-drop.git`
 
 ### Setup
-- Install the project with ```$ composer install ``` command
+- Install the framework and extensions with ```$ composer install ``` command
 - Make a database called `jacsomedia`
 - Run command ```$ php yii migrate ```
 
